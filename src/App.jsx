@@ -1,11 +1,13 @@
 import './App.css'
-import Uploader from './components/uploader.jsx';
+import FileUploader from './components/uploader.jsx';
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+
 
 function App() {
 
   return (
     <>
-      <Uploader />
+      <FileUploader />
     </>
   )
 }

@@ -2,3 +2,4 @@
 
 ## Backend setup
 - https://docs.deno.com/runtime/tutorials/how_to_with_npm/vue/#create-a-vue.js-app-with-vite-and-deno
+- https://docs.deno.com/runtime/tutorials/how_to_with_npm/react/
